@@ -2,7 +2,7 @@
 
 I'm Chris, a cybersecurity student who does programming as a hobby
 
-![Status](https://img.shields.io/badge/Status-Student-brightgreen)
+![Status](https://img.shields.io/badge/Student-Cyber_Security_Intern-blue)
 
 **SKILLS:**
 ![Python](https://img.shields.io/badge/Python-Expert-brightgreen?logo=python&logoColor=white)

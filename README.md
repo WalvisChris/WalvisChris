@@ -1,16 +1,13 @@
-## Hi there 👋
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-red?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Advanced-purple?logo=csharp&logoColor=white)
 
-<!--
-**WalvisChris/WalvisChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalvisChris&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![Visitor Count](https://komarev.com/ghpvc/?username=WalvisChris&style=flat-square&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalvisChris&show_icons=true&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalvisChris&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=WalvisChris&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)

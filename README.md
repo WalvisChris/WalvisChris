@@ -14,6 +14,7 @@ I'm Chris, a cybersecurity student who does programming as a hobby.
 **Data Serialization Formats:**
 ![Yaml](https://img.shields.io/badge/Yaml-Capable-purple?logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-Capable-purple?logo=java&logoColor=white)
+![Csv](https://img.shields.io/badge/CSV-Capable-purple?logo=java&logoColor=white)
 ![Xml](https://img.shields.io/badge/Xml-Noob-red?logo=java&logoColor=white)
 
 **Other:**

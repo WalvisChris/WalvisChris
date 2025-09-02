@@ -4,6 +4,7 @@ I'm Chris, a cyber security student who does programming for a hobby.
 
 **My Repositories:**  
 [Plants vs Zombies - Minecraft Datapack](https://github.com/WalvisChris/Minecraft-PVZ)  
+[BetterTerminalScanner - Lethal Company Mod](https://github.com/WalvisChris/Better-Terminal-Scanner-MOD)  
 [MoreLikeREPO - Lethal Company Mod](https://github.com/WalvisChris/MoreLikeREPO)  
 [Wordle - Discord Bot](https://github.com/WalvisChris/Discord-Wordle-Bot)  
 [LEGO guitar - Rust](https://github.com/WalvisChris/EV3-Guitar-to-Rust-Guitar)  

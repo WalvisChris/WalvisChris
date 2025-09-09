@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Chris, a cyber security student who does programming for a hobby.  
+I'm Chris, a cyber security student who does programming for a hobby.
 
 **My Repositories:**  
 [Plants vs Zombies: Level Editor - APK](https://github.com/WalvisChris/PVZ-Level-Editor-APK)  

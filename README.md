@@ -16,18 +16,18 @@ I'm Chris, a cyber security student who does programming / computer science for 
 
 # Minecraft datapacks/commands  
 [![noise](media/banner-mc-noise.png)](https://github.com/WalvisChris/Noise-Algorithms-Datapack)  
+[See the Bresenham videon on YouTube](https://www.youtube.com/watch?v=bs37YM7vnhU)  
 [![bresenham](media/banner-mc-bresenham.png)](https://github.com/WalvisChris/Bresenham-Minecraft)  
-[See the Bresenham videon on YouTube](https://www.youtube.com/watch?v=bs37YM7vnhU)   
-[![pvz](media/banner-mc-pvz.png)](https://github.com/WalvisChris/Minecraft-PVZ)  
 [See the PVZ video on YouTube](https://www.youtube.com/watch?v=pYdFIb5ygnA)  
+[![pvz](media/banner-mc-pvz.png)](https://github.com/WalvisChris/Minecraft-PVZ)  
 [![kingdomrush-datapack](media/banner-mc-kingdomrush.png)](https://github.com/WalvisChris/Kingdom-Rush-Datapack)  
 [![factorio-datapack](media/banner-mc-factorio.png)](https://github.com/WalvisChris/Factorio-Datapack)  
 [![steam-datapack](media/banner-mc-steam.png)](https://github.com/WalvisChris/Steam-Datapack)  
 [![3d-render](media/banner-mc-3d-render.png)](https://github.com/WalvisChris/3D-render-datapack)  
 
 # The Farmer Was Replaced QR  
-[![qr](media/banner-tfwr-qr.png)](https://github.com/WalvisChris/The-Farmer-Was-Replaced-QR-Generator)  
 [See the QR video on YouTube](https://www.youtube.com/watch?v=zfhjKEZjZ5o)  
+[![qr](media/banner-tfwr-qr.png)](https://github.com/WalvisChris/The-Farmer-Was-Replaced-QR-Generator)  
 
 # Github Pages  
 [![tools](media/banner-empty.png)](https://walvischris.github.io/)  

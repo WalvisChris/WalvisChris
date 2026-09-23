@@ -2,6 +2,9 @@
 
 I'm Chris, a cyber security student who does programming / computer science for a hobby.
 
+# Mods  
+[![kroes-utilities](media/banner-supermarket-kroes-utilities.png)]((https://github.com/WalvisChris/KroesUtilitiesMod))
+
 # Minecraft Repo's
 [![bresenham](media/banner-empty.png)]((https://github.com/WalvisChris/Bresenham-Minecraft))  
 [![pvz](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-PVZ)  

@@ -2,25 +2,26 @@
 
 I'm Chris, a cyber security student who does programming / computer science for a hobby.
 
-# Mods  
-[![kroes-utilities](media/banner-supermarket-kroes-utilities.png)]((https://github.com/WalvisChris/KroesUtilitiesMod))
+# Mods - Supermarket  
+[View my Thunderstore page](https://thunderstore.io/c/supermarket-together/p/WalvisChris/)  
+[![kroes-utilities](media/banner-supermarket-kroes-utilities.png)](https://github.com/WalvisChris/KroesUtilitiesMod)  
+
+# Mods - Lethal Company  
+[View my Thunderstore page](https://thunderstore.io/c/lethal-company/p/WalvisChris/)  
+[![kroes-terminal](media/banner-lethal-kroes-terminal.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/KroesTerminal/)  
+[![better-terminal-scanner](media/banner-lethal-better-terminal-scanner.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/Better_Terminal_Scanner/)  
+[![baboon-rizz](media/banner-lethal-baboon-rizz.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/BaboonRizz/)  
+[![open-big-doors](media/banner-lethal-open-big-doors.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/Open_Big_Doors/)  
+[![more-scan-nodes](media/banner-lethal-more-scan-nodes.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/MoreScanNodes/)  
 
 # Minecraft Repo's
-[![bresenham](media/banner-empty.png)]((https://github.com/WalvisChris/Bresenham-Minecraft))  
+[![bresenham](media/banner-empty.png)](https://github.com/WalvisChris/Bresenham-Minecraft)   
 [![pvz](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-PVZ)  
 [![kingdomrush-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Kingdom-Rush-Datapack)  
 [![factorio-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Factorio-Datapack)  
 [![steam-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Steam-Datapack)  
 [![3d-render](media/banner-empty.png)](https://github.com/WalvisChris/3D-render-datapack)  
-[![commands-tutorial](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-Commands-Tutorial)  
-
-# Lethal Company Mods
-[![kroes-terminal](media/banner-empty.png)](https://github.com/WalvisChris/KroesTerminalMod)  
-[![more-like-repo](media/banner-empty.png)](https://github.com/WalvisChris/MoreLikeREPO)  
-[![better-terminal-scanner](media/banner-empty.png)](https://github.com/WalvisChris/Better-Terminal-Scanner-MOD)  
-[![more-scan-nodes](media/banner-empty.png)](https://github.com/WalvisChris/MoreScanNodesMod)  
-[![baboon-rizz](media/banner-empty.png)](https://github.com/WalvisChris/LC-BaboonRizz-MOD)  
-[![open-doors](media/banner-empty.png)](https://github.com/WalvisChris/LCOpenDoorsMod)  
+[![commands-tutorial](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-Commands-Tutorial)   
 
 # IoT / Computer Science / Python
 [![ev3-car](media/banner-empty.png)](https://github.com/WalvisChris/Rocket-League-EV3-LEGO)  
@@ -37,7 +38,6 @@ I'm Chris, a cyber security student who does programming / computer science for 
 [![minimal-ieee](media/banner-empty.png)](https://github.com/WalvisChris/minimal-IEEE-1609.2)  
 [![ieee-research](media/banner-empty.png)](https://github.com/WalvisChris/IEEE1609.2-2022-research)  
 
-# Other
-[![gemini-post-maker](media/banner-empty.png)](https://github.com/WalvisChris/GeminiPostMaker)  
-[![pvz-level-editor-apk](media/banner-empty.png)](https://github.com/WalvisChris/PVZ-Level-Editor-APK)  
-[![supermarket-together-mod](media/banner-empty.png)](https://github.com/WalvisChris/MOD-Supermarket-Together)  
+# Github Pages
+[![tools](media/banner-empty.png)](https://walvischris.github.io/)
+[![gemini](media/banner-empty.png)](https://walvischris.github.io/gemini/)  

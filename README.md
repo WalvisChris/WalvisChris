@@ -2,7 +2,7 @@
 
 I'm Chris, a cyber security student who does programming / computer science for a hobby.
 
-# Mods - Supermarket  
+# Mods - Supermarket Together  
 [View my Thunderstore page](https://thunderstore.io/c/supermarket-together/p/WalvisChris/)  
 [![kroes-utilities](media/banner-supermarket-kroes-utilities.png)](https://github.com/WalvisChris/KroesUtilitiesMod)  
 
@@ -14,16 +14,26 @@ I'm Chris, a cyber security student who does programming / computer science for 
 [![open-big-doors](media/banner-lethal-open-big-doors.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/Open_Big_Doors/)  
 [![more-scan-nodes](media/banner-lethal-more-scan-nodes.png)](https://thunderstore.io/c/lethal-company/p/WalvisChris/MoreScanNodes/)  
 
-# Minecraft Repo's
-[![bresenham](media/banner-empty.png)](https://github.com/WalvisChris/Bresenham-Minecraft)   
-[![pvz](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-PVZ)  
-[![kingdomrush-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Kingdom-Rush-Datapack)  
-[![factorio-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Factorio-Datapack)  
-[![steam-datapack](media/banner-empty.png)](https://github.com/WalvisChris/Steam-Datapack)  
-[![3d-render](media/banner-empty.png)](https://github.com/WalvisChris/3D-render-datapack)  
-[![commands-tutorial](media/banner-empty.png)](https://github.com/WalvisChris/Minecraft-Commands-Tutorial)   
+# Minecraft datapacks/commands  
+[![noise](media/banner-mc-noise.png)](https://github.com/WalvisChris/Noise-Algorithms-Datapack)  
+[![bresenham](media/banner-mc-bresenham.png)](https://github.com/WalvisChris/Bresenham-Minecraft)  
+[See the Bresenham videon on YouTube](https://www.youtube.com/watch?v=bs37YM7vnhU)   
+[![pvz](media/banner-mc-pvz.png)](https://github.com/WalvisChris/Minecraft-PVZ)  
+[See the PVZ video on YouTube](https://www.youtube.com/watch?v=pYdFIb5ygnA)  
+[![kingdomrush-datapack](media/banner-mc-kingdomrush.png)](https://github.com/WalvisChris/Kingdom-Rush-Datapack)  
+[![factorio-datapack](media/banner-mc-factorio.png)](https://github.com/WalvisChris/Factorio-Datapack)  
+[![steam-datapack](media/banner-mc-steam.png)](https://github.com/WalvisChris/Steam-Datapack)  
+[![3d-render](media/banner-mc-3d-render.png)](https://github.com/WalvisChris/3D-render-datapack)  
 
-# IoT / Computer Science / Python
+# The Farmer Was Replaced QR  
+[![qr](media/banner-tfwr-qr.png)](https://github.com/WalvisChris/The-Farmer-Was-Replaced-QR-Generator)  
+[See the QR video on YouTube](https://www.youtube.com/watch?v=zfhjKEZjZ5o)  
+
+# Github Pages  
+[![tools](media/banner-empty.png)](https://walvischris.github.io/)  
+[![gemini](media/banner-empty.png)](https://walvischris.github.io/gemini/)  
+
+# IoT / Computer Science / Python  
 [![ev3-car](media/banner-empty.png)](https://github.com/WalvisChris/Rocket-League-EV3-LEGO)  
 [![ev3-guitar](media/banner-empty.png)](https://github.com/WalvisChris/EV3-Guitar-to-Rust-Guitar)  
 [![python-practice](media/banner-empty.png)](https://github.com/WalvisChris/Python-Practice)  
@@ -33,11 +43,7 @@ I'm Chris, a cyber security student who does programming / computer science for 
 [![c3-pico](media/banner-empty.png)](https://github.com/WalvisChris/ESP32-C3-PICO-testing)  
 [![wt32-sc01](media/banner-empty.png)](https://github.com/WalvisChris/WT32-SC01-PLUS-testing)  
 
-# School
+# School  
 [![crashguard](media/banner-empty.png)](https://github.com/WalvisChris/CrashGuard-V2X)  
 [![minimal-ieee](media/banner-empty.png)](https://github.com/WalvisChris/minimal-IEEE-1609.2)  
 [![ieee-research](media/banner-empty.png)](https://github.com/WalvisChris/IEEE1609.2-2022-research)  
-
-# Github Pages
-[![tools](media/banner-empty.png)](https://walvischris.github.io/)
-[![gemini](media/banner-empty.png)](https://walvischris.github.io/gemini/)  

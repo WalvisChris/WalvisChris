@@ -5,6 +5,7 @@ I'm Chris, a cyber security student who does programming / computer science for 
 # Mods - Supermarket Together  
 [View my Thunderstore page](https://thunderstore.io/c/supermarket-together/p/WalvisChris/)  
 [![kroes-utilities](media/banner-supermarket-kroes-utilities.png)](https://github.com/WalvisChris/KroesUtilitiesMod)  
+[![unity-analyzer](media/banner-supermarket-unity-analyzer.png)](https://github.com/WalvisChris/UnityAnalyzerMod)  
 
 # Mods - Lethal Company  
 [View my Thunderstore page](https://thunderstore.io/c/lethal-company/p/WalvisChris/)  

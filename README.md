@@ -35,11 +35,13 @@ I'm Chris, a cyber security student who does programming / computer science for 
 [![gemini](media/banner-empty.png)](https://walvischris.github.io/gemini/)  
 
 # IoT / Computer Science / Python  
-[![ev3-car](media/banner-empty.png)](https://github.com/WalvisChris/Rocket-League-EV3-LEGO)  
-[![ev3-guitar](media/banner-empty.png)](https://github.com/WalvisChris/EV3-Guitar-to-Rust-Guitar)  
+[See the EV3 car video on YouTube](https://www.youtube.com/watch?v=mcSZaGGXNzk)  
+[![ev3-car](media/banner-ev3-rocketleague.jpg)](https://github.com/WalvisChris/Rocket-League-EV3-LEGO)  
+[See the EV3 guitar video on YouTube](https://www.youtube.com/watch?v=-0u0-XY2agc)  
+[![ev3-guitar](media/banner-ev3-guitar.jpg)](https://github.com/WalvisChris/EV3-Guitar-to-Rust-Guitar)  
 [![python-practice](media/banner-empty.png)](https://github.com/WalvisChris/Python-Practice)  
 [![discord-wordle-bot](media/banner-empty.png)](https://github.com/WalvisChris/Discord-Wordle-Bot)  
-[![ark-route](media/banner-empty.png)](https://github.com/WalvisChris/Ark-Explorer-Note-Route)  
+[![ark-route](media/banner-explorer.jpg)](https://github.com/WalvisChris/Ark-Explorer-Note-Route)  
 [![m5-stick](media/banner-empty.png)](https://github.com/WalvisChris/M5StickC-testing)  
 [![c3-pico](media/banner-empty.png)](https://github.com/WalvisChris/ESP32-C3-PICO-testing)  
 [![wt32-sc01](media/banner-empty.png)](https://github.com/WalvisChris/WT32-SC01-PLUS-testing)  
